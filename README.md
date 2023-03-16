@@ -1,2 +1,2 @@
 # first-code
-I studying a coding languages and the files contains my experiments 
+I studying a codes of programming languages and the files contains my experiments 
